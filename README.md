@@ -1,2 +1,2 @@
 # Machine Learning
-This repository a few of my machine learning projects.
+This repository contains a few of my machine learning projects.
